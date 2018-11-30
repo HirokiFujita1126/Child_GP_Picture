@@ -1,0 +1,577 @@
+"","condition","item","sentence","reading_time","subject","ambiguity_G","ambiguity"
+"62","exp4","3","After the bear scratched%2C the lion in the forest climbed the tree.",4526,1,"Unambiguous",-1
+"68","exp2","9","After the parents kissed%2C their son in the dining room ate some bread.",4304,1,"Unambiguous",-1
+"74","exp2","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",3841,1,"Unambiguous",-1
+"80","exp3","6","After the mouse scratched the man with the dark hair drank some water.",6003,1,"Ambiguous",1
+"86","exp3","14","After the lady woke up her friend in the flat drank a cup of tea.",5736,1,"Ambiguous",1
+"92","exp2","1","After the lady woke up%2C the boy in the room ate a sandwich.",7413,1,"Unambiguous",-1
+"98","exp3","2","After the woman dressed the boy at home read a book.",5589,1,"Ambiguous",1
+"104","exp1","8","After the lady woke up her husband at home drank some coffee.",5756,1,"Ambiguous",1
+"110","exp4","7","After the lady dressed%2C the boy in the house watched the television.",3570,1,"Unambiguous",-1
+"116","exp1","12","After the lady dressed the child in the bedroom looked at the clock.",4333,1,"Ambiguous",1
+"122","exp3","10","After the brothers hugged their mother in the kitchen ate some cookies.",5246,1,"Ambiguous",1
+"128","exp4","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",5918,1,"Unambiguous",-1
+"134","exp1","4","After the parents hugged their child in the park sat on the bench.",4002,1,"Ambiguous",1
+"140","exp2","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",3424,1,"Unambiguous",-1
+"146","exp4","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",3243,1,"Unambiguous",-1
+"152","exp1","16","After the old lady dressed the boy in the bedroom looked at the clock.",3745,1,"Ambiguous",1
+"219","exp3","1","After the lady woke up the boy in the room ate a sandwich.",4044,2,"Ambiguous",1
+"225","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",2905,2,"Unambiguous",-1
+"231","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",2497,2,"Unambiguous",-1
+"237","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",3311,2,"Ambiguous",1
+"243","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",4374,2,"Ambiguous",1
+"249","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",3945,2,"Unambiguous",-1
+"255","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",4266,2,"Unambiguous",-1
+"261","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",2405,2,"Unambiguous",-1
+"267","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",5806,2,"Unambiguous",-1
+"273","exp1","7","After the lady dressed the boy in the house watched the television.",1930,2,"Ambiguous",1
+"279","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",3625,2,"Unambiguous",-1
+"285","exp1","3","After the bear scratched the lion in the forest climbed the tree.",11828,2,"Ambiguous",1
+"291","exp4","2","After the woman dressed%2C the boy at home read a book.",1971,2,"Unambiguous",-1
+"297","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",7858,2,"Ambiguous",1
+"303","exp3","9","After the parents kissed their son in the dining room ate some bread.",2973,2,"Ambiguous",1
+"309","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",5149,2,"Ambiguous",1
+"372","exp1","6","After the mouse scratched the man with the dark hair drank some water.",3199,3,"Ambiguous",1
+"378","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",5419,3,"Unambiguous",-1
+"384","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",4878,3,"Unambiguous",-1
+"390","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",4288,3,"Ambiguous",1
+"396","exp2","7","After the lady dressed%2C the boy in the house watched the television.",4382,3,"Unambiguous",-1
+"402","exp3","4","After the parents hugged their child in the park sat on the bench.",7110,3,"Ambiguous",1
+"408","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",5692,3,"Unambiguous",-1
+"414","exp3","8","After the lady woke up her husband at home drank some coffee.",6834,3,"Ambiguous",1
+"420","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",4530,3,"Unambiguous",-1
+"426","exp1","2","After the woman dressed the boy at home read a book.",3604,3,"Ambiguous",1
+"432","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",8002,3,"Unambiguous",-1
+"438","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",5008,3,"Ambiguous",1
+"444","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",5104,3,"Ambiguous",1
+"450","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",4130,3,"Unambiguous",-1
+"456","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",4233,3,"Ambiguous",1
+"462","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",9019,3,"Unambiguous",-1
+"529","exp2","2","After the woman dressed%2C the boy at home read a book.",4448,4,"Unambiguous",-1
+"535","exp1","9","After the parents kissed their son in the dining room ate some bread.",7396,4,"Ambiguous",1
+"541","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",5451,4,"Unambiguous",-1
+"547","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",5232,4,"Ambiguous",1
+"553","exp3","3","After the bear scratched the lion in the forest climbed the tree.",5565,4,"Ambiguous",1
+"559","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",5059,4,"Unambiguous",-1
+"565","exp3","7","After the lady dressed the boy in the house watched the television.",4399,4,"Ambiguous",1
+"571","exp1","1","After the lady woke up the boy in the room ate a sandwich.",4122,4,"Ambiguous",1
+"577","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",5396,4,"Unambiguous",-1
+"583","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",5993,4,"Unambiguous",-1
+"589","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",5682,4,"Unambiguous",-1
+"595","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",3861,4,"Ambiguous",1
+"601","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",5125,4,"Ambiguous",1
+"607","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",4785,4,"Ambiguous",1
+"613","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",5241,4,"Unambiguous",-1
+"619","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",4704,4,"Unambiguous",-1
+"682","exp3","14","After the lady woke up her friend in the flat drank a cup of tea.",6618,5,"Ambiguous",1
+"688","exp3","6","After the mouse scratched the man with the dark hair drank some water.",8519,5,"Ambiguous",1
+"694","exp4","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",4176,5,"Unambiguous",-1
+"700","exp3","2","After the woman dressed the boy at home read a book.",7471,5,"Ambiguous",1
+"706","exp4","3","After the bear scratched%2C the lion in the forest climbed the tree.",5843,5,"Unambiguous",-1
+"712","exp2","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",3891,5,"Unambiguous",-1
+"718","exp3","10","After the brothers hugged their mother in the kitchen ate some cookies.",9279,5,"Ambiguous",1
+"724","exp2","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",3476,5,"Unambiguous",-1
+"730","exp2","9","After the parents kissed%2C their son in the dining room ate some bread.",3954,5,"Unambiguous",-1
+"736","exp2","1","After the lady woke up%2C the boy in the room ate a sandwich.",3354,5,"Unambiguous",-1
+"742","exp1","4","After the parents hugged their child in the park sat on the bench.",5509,5,"Ambiguous",1
+"748","exp1","16","After the old lady dressed the boy in the bedroom looked at the clock.",9747,5,"Ambiguous",1
+"754","exp1","12","After the lady dressed the child in the bedroom looked at the clock.",4168,5,"Ambiguous",1
+"760","exp1","8","After the lady woke up her husband at home drank some coffee.",5603,5,"Ambiguous",1
+"766","exp4","7","After the lady dressed%2C the boy in the house watched the television.",3218,5,"Unambiguous",-1
+"772","exp4","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",17690,5,"Unambiguous",-1
+"837","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",4175,6,"Unambiguous",-1
+"843","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",5252,6,"Ambiguous",1
+"849","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",11880,6,"Unambiguous",-1
+"855","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",5636,6,"Unambiguous",-1
+"861","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",5800,6,"Ambiguous",1
+"867","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",3229,6,"Unambiguous",-1
+"873","exp1","3","After the bear scratched the lion in the forest climbed the tree.",3951,6,"Ambiguous",1
+"879","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",5100,6,"Unambiguous",-1
+"885","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",6698,6,"Unambiguous",-1
+"891","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",6872,6,"Ambiguous",1
+"897","exp4","2","After the woman dressed%2C the boy at home read a book.",5196,6,"Unambiguous",-1
+"903","exp3","9","After the parents kissed their son in the dining room ate some bread.",3133,6,"Ambiguous",1
+"909","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",9525,6,"Ambiguous",1
+"915","exp1","7","After the lady dressed the boy in the house watched the television.",4958,6,"Ambiguous",1
+"921","exp3","1","After the lady woke up the boy in the room ate a sandwich.",5391,6,"Ambiguous",1
+"927","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",4884,6,"Unambiguous",-1
+"994","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",1239,7,"Unambiguous",-1
+"1000","exp3","8","After the lady woke up her husband at home drank some coffee.",1570,7,"Ambiguous",1
+"1006","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",1743,7,"Ambiguous",1
+"1012","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",1660,7,"Ambiguous",1
+"1018","exp1","6","After the mouse scratched the man with the dark hair drank some water.",2214,7,"Ambiguous",1
+"1024","exp1","2","After the woman dressed the boy at home read a book.",1724,7,"Ambiguous",1
+"1030","exp2","7","After the lady dressed%2C the boy in the house watched the television.",1590,7,"Unambiguous",-1
+"1036","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",1333,7,"Unambiguous",-1
+"1042","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",1082,7,"Unambiguous",-1
+"1048","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",1096,7,"Ambiguous",1
+"1054","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",1012,7,"Ambiguous",1
+"1060","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",1627,7,"Unambiguous",-1
+"1066","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",1326,7,"Unambiguous",-1
+"1072","exp3","4","After the parents hugged their child in the park sat on the bench.",2663,7,"Ambiguous",1
+"1078","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",1313,7,"Unambiguous",-1
+"1084","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",1142,7,"Unambiguous",-1
+"1149","exp3","3","After the bear scratched the lion in the forest climbed the tree.",3620,8,"Ambiguous",1
+"1155","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",9639,8,"Unambiguous",-1
+"1161","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",5784,8,"Ambiguous",1
+"1167","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",4990,8,"Unambiguous",-1
+"1173","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",3478,8,"Unambiguous",-1
+"1179","exp3","7","After the lady dressed the boy in the house watched the television.",4993,8,"Ambiguous",1
+"1185","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",4320,8,"Ambiguous",1
+"1191","exp1","9","After the parents kissed their son in the dining room ate some bread.",4356,8,"Ambiguous",1
+"1197","exp2","2","After the woman dressed%2C the boy at home read a book.",9928,8,"Unambiguous",-1
+"1203","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",4401,8,"Ambiguous",1
+"1209","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",5610,8,"Unambiguous",-1
+"1215","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",4032,8,"Unambiguous",-1
+"1221","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",5644,8,"Unambiguous",-1
+"1227","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",3224,8,"Ambiguous",1
+"1233","exp1","1","After the lady woke up the boy in the room ate a sandwich.",2745,8,"Ambiguous",1
+"1239","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",2826,8,"Unambiguous",-1
+"1304","exp1","4","After the parents hugged their child in the park sat on the bench.",11371,9,"Ambiguous",1
+"1310","exp2","1","After the lady woke up%2C the boy in the room ate a sandwich.",4805,9,"Unambiguous",-1
+"1316","exp4","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",4092,9,"Unambiguous",-1
+"1322","exp2","9","After the parents kissed%2C their son in the dining room ate some bread.",4736,9,"Unambiguous",-1
+"1328","exp4","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",3513,9,"Unambiguous",-1
+"1334","exp1","16","After the old lady dressed the boy in the bedroom looked at the clock.",6587,9,"Ambiguous",1
+"1340","exp3","2","After the woman dressed the boy at home read a book.",4370,9,"Ambiguous",1
+"1346","exp3","6","After the mouse scratched the man with the dark hair drank some water.",13966,9,"Ambiguous",1
+"1352","exp4","7","After the lady dressed%2C the boy in the house watched the television.",11584,9,"Unambiguous",-1
+"1358","exp1","12","After the lady dressed the child in the bedroom looked at the clock.",14245,9,"Ambiguous",1
+"1364","exp2","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",3945,9,"Unambiguous",-1
+"1370","exp3","10","After the brothers hugged their mother in the kitchen ate some cookies.",4811,9,"Ambiguous",1
+"1376","exp1","8","After the lady woke up her husband at home drank some coffee.",5941,9,"Ambiguous",1
+"1382","exp4","3","After the bear scratched%2C the lion in the forest climbed the tree.",11052,9,"Unambiguous",-1
+"1388","exp2","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",6143,9,"Unambiguous",-1
+"1394","exp3","14","After the lady woke up her friend in the flat drank a cup of tea.",7811,9,"Ambiguous",1
+"1459","exp3","1","After the lady woke up the boy in the room ate a sandwich.",28810,10,"Ambiguous",1
+"1465","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",37443,10,"Ambiguous",1
+"1471","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",13204,10,"Ambiguous",1
+"1477","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",16334,10,"Ambiguous",1
+"1483","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",8385,10,"Unambiguous",-1
+"1489","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",14142,10,"Unambiguous",-1
+"1495","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",11806,10,"Unambiguous",-1
+"1501","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",10685,10,"Unambiguous",-1
+"1507","exp4","2","After the woman dressed%2C the boy at home read a book.",8742,10,"Unambiguous",-1
+"1513","exp3","9","After the parents kissed their son in the dining room ate some bread.",8094,10,"Ambiguous",1
+"1519","exp1","3","After the bear scratched the lion in the forest climbed the tree.",10169,10,"Ambiguous",1
+"1525","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",4659,10,"Ambiguous",1
+"1531","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",23123,10,"Unambiguous",-1
+"1537","exp1","7","After the lady dressed the boy in the house watched the television.",58019,10,"Ambiguous",1
+"1543","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",50810,10,"Unambiguous",-1
+"1549","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",5895,10,"Unambiguous",-1
+"1614","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",5090,11,"Ambiguous",1
+"1620","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",3689,11,"Unambiguous",-1
+"1626","exp1","2","After the woman dressed the boy at home read a book.",4221,11,"Ambiguous",1
+"1632","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",1858,11,"Unambiguous",-1
+"1638","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",1783,11,"Unambiguous",-1
+"1644","exp3","8","After the lady woke up her husband at home drank some coffee.",5864,11,"Ambiguous",1
+"1650","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",3417,11,"Ambiguous",1
+"1656","exp2","7","After the lady dressed%2C the boy in the house watched the television.",4472,11,"Unambiguous",-1
+"1662","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",2588,11,"Unambiguous",-1
+"1668","exp1","6","After the mouse scratched the man with the dark hair drank some water.",4327,11,"Ambiguous",1
+"1674","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",3263,11,"Unambiguous",-1
+"1680","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",2544,11,"Unambiguous",-1
+"1686","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",2998,11,"Ambiguous",1
+"1692","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",3132,11,"Unambiguous",-1
+"1698","exp3","4","After the parents hugged their child in the park sat on the bench.",6228,11,"Ambiguous",1
+"1704","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",6217,11,"Ambiguous",1
+"1769","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",4389,12,"Unambiguous",-1
+"1775","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",5648,12,"Ambiguous",1
+"1781","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",5036,12,"Unambiguous",-1
+"1787","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",4283,12,"Ambiguous",1
+"1793","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",3196,12,"Ambiguous",1
+"1799","exp3","3","After the bear scratched the lion in the forest climbed the tree.",5415,12,"Ambiguous",1
+"1805","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",5231,12,"Unambiguous",-1
+"1811","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",7933,12,"Unambiguous",-1
+"1817","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",2821,12,"Ambiguous",1
+"1823","exp3","7","After the lady dressed the boy in the house watched the television.",3769,12,"Ambiguous",1
+"1829","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",6638,12,"Unambiguous",-1
+"1835","exp1","1","After the lady woke up the boy in the room ate a sandwich.",4373,12,"Ambiguous",1
+"1841","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",7735,12,"Unambiguous",-1
+"1847","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",4328,12,"Unambiguous",-1
+"1853","exp1","9","After the parents kissed their son in the dining room ate some bread.",7533,12,"Ambiguous",1
+"1859","exp2","2","After the woman dressed%2C the boy at home read a book.",3764,12,"Unambiguous",-1
+"1924","exp2","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",8972,13,"Unambiguous",-1
+"1930","exp3","2","After the woman dressed the boy at home read a book.",7079,13,"Ambiguous",1
+"1936","exp1","12","After the lady dressed the child in the bedroom looked at the clock.",7934,13,"Ambiguous",1
+"1942","exp1","16","After the old lady dressed the boy in the bedroom looked at the clock.",9951,13,"Ambiguous",1
+"1948","exp4","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",4230,13,"Unambiguous",-1
+"1954","exp2","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",6660,13,"Unambiguous",-1
+"1960","exp2","9","After the parents kissed%2C their son in the dining room ate some bread.",4117,13,"Unambiguous",-1
+"1966","exp2","1","After the lady woke up%2C the boy in the room ate a sandwich.",4926,13,"Unambiguous",-1
+"1972","exp1","8","After the lady woke up her husband at home drank some coffee.",4372,13,"Ambiguous",1
+"1978","exp3","6","After the mouse scratched the man with the dark hair drank some water.",12847,13,"Ambiguous",1
+"1984","exp4","3","After the bear scratched%2C the lion in the forest climbed the tree.",9558,13,"Unambiguous",-1
+"1990","exp4","7","After the lady dressed%2C the boy in the house watched the television.",6847,13,"Unambiguous",-1
+"1996","exp3","14","After the lady woke up her friend in the flat drank a cup of tea.",7322,13,"Ambiguous",1
+"2002","exp4","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",4804,13,"Unambiguous",-1
+"2008","exp3","10","After the brothers hugged their mother in the kitchen ate some cookies.",6537,13,"Ambiguous",1
+"2014","exp1","4","After the parents hugged their child in the park sat on the bench.",5557,13,"Ambiguous",1
+"2079","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",6089,14,"Unambiguous",-1
+"2085","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",4969,14,"Unambiguous",-1
+"2091","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",6559,14,"Unambiguous",-1
+"2097","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",6388,14,"Ambiguous",1
+"2103","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",5146,14,"Unambiguous",-1
+"2109","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",4617,14,"Unambiguous",-1
+"2115","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",4049,14,"Ambiguous",1
+"2121","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",7265,14,"Unambiguous",-1
+"2127","exp3","9","After the parents kissed their son in the dining room ate some bread.",4237,14,"Ambiguous",1
+"2133","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",4865,14,"Ambiguous",1
+"2139","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",4986,14,"Ambiguous",1
+"2145","exp3","1","After the lady woke up the boy in the room ate a sandwich.",3551,14,"Ambiguous",1
+"2151","exp1","3","After the bear scratched the lion in the forest climbed the tree.",3344,14,"Ambiguous",1
+"2157","exp1","7","After the lady dressed the boy in the house watched the television.",5409,14,"Ambiguous",1
+"2163","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",9170,14,"Unambiguous",-1
+"2169","exp4","2","After the woman dressed%2C the boy at home read a book.",4882,14,"Unambiguous",-1
+"2232","exp2","7","After the lady dressed%2C the boy in the house watched the television.",2549,15,"Unambiguous",-1
+"2238","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",2168,15,"Unambiguous",-1
+"2244","exp1","6","After the mouse scratched the man with the dark hair drank some water.",1627,15,"Ambiguous",1
+"2250","exp1","2","After the woman dressed the boy at home read a book.",2492,15,"Ambiguous",1
+"2256","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",2722,15,"Unambiguous",-1
+"2262","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",2114,15,"Unambiguous",-1
+"2268","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",1177,15,"Unambiguous",-1
+"2274","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",1962,15,"Ambiguous",1
+"2280","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",2489,15,"Ambiguous",1
+"2286","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",2062,15,"Unambiguous",-1
+"2292","exp3","4","After the parents hugged their child in the park sat on the bench.",1908,15,"Ambiguous",1
+"2298","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",822,15,"Ambiguous",1
+"2304","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",1426,15,"Unambiguous",-1
+"2310","exp3","8","After the lady woke up her husband at home drank some coffee.",1106,15,"Ambiguous",1
+"2316","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",2384,15,"Ambiguous",1
+"2322","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",2868,15,"Unambiguous",-1
+"2387","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",8298,16,"Unambiguous",-1
+"2393","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",6013,16,"Unambiguous",-1
+"2399","exp3","3","After the bear scratched the lion in the forest climbed the tree.",5935,16,"Ambiguous",1
+"2405","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",6273,16,"Unambiguous",-1
+"2411","exp2","2","After the woman dressed%2C the boy at home read a book.",4964,16,"Unambiguous",-1
+"2417","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",17621,16,"Ambiguous",1
+"2423","exp3","7","After the lady dressed the boy in the house watched the television.",12667,16,"Ambiguous",1
+"2429","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",6169,16,"Ambiguous",1
+"2435","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",5781,16,"Ambiguous",1
+"2441","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",14260,16,"Unambiguous",-1
+"2447","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",15901,16,"Unambiguous",-1
+"2453","exp1","9","After the parents kissed their son in the dining room ate some bread.",8727,16,"Ambiguous",1
+"2459","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",7273,16,"Unambiguous",-1
+"2465","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",8133,16,"Unambiguous",-1
+"2471","exp1","1","After the lady woke up the boy in the room ate a sandwich.",7606,16,"Ambiguous",1
+"2477","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",8314,16,"Ambiguous",1
+"2542","exp1","16","After the old lady dressed the boy in the bedroom looked at the clock.",7500,17,"Ambiguous",1
+"2548","exp2","1","After the lady woke up%2C the boy in the room ate a sandwich.",4522,17,"Unambiguous",-1
+"2554","exp1","12","After the lady dressed the child in the bedroom looked at the clock.",9649,17,"Ambiguous",1
+"2560","exp1","8","After the lady woke up her husband at home drank some coffee.",7932,17,"Ambiguous",1
+"2566","exp4","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",8401,17,"Unambiguous",-1
+"2572","exp1","4","After the parents hugged their child in the park sat on the bench.",7414,17,"Ambiguous",1
+"2578","exp3","6","After the mouse scratched the man with the dark hair drank some water.",17406,17,"Ambiguous",1
+"2584","exp4","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",4521,17,"Unambiguous",-1
+"2590","exp2","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",7752,17,"Unambiguous",-1
+"2596","exp3","14","After the lady woke up her friend in the flat drank a cup of tea.",9003,17,"Ambiguous",1
+"2602","exp4","7","After the lady dressed%2C the boy in the house watched the television.",3557,17,"Unambiguous",-1
+"2608","exp3","2","After the woman dressed the boy at home read a book.",9201,17,"Ambiguous",1
+"2614","exp3","10","After the brothers hugged their mother in the kitchen ate some cookies.",31988,17,"Ambiguous",1
+"2620","exp2","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",19261,17,"Unambiguous",-1
+"2626","exp2","9","After the parents kissed%2C their son in the dining room ate some bread.",4325,17,"Unambiguous",-1
+"2632","exp4","3","After the bear scratched%2C the lion in the forest climbed the tree.",4262,17,"Unambiguous",-1
+"2699","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",5845,18,"Unambiguous",-1
+"2705","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",5159,18,"Ambiguous",1
+"2711","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",6946,18,"Unambiguous",-1
+"2717","exp3","1","After the lady woke up the boy in the room ate a sandwich.",3435,18,"Ambiguous",1
+"2723","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",6179,18,"Unambiguous",-1
+"2729","exp3","9","After the parents kissed their son in the dining room ate some bread.",4078,18,"Ambiguous",1
+"2735","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",8419,18,"Unambiguous",-1
+"2741","exp4","2","After the woman dressed%2C the boy at home read a book.",4563,18,"Unambiguous",-1
+"2747","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",3771,18,"Ambiguous",1
+"2753","exp1","7","After the lady dressed the boy in the house watched the television.",3041,18,"Ambiguous",1
+"2759","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",4736,18,"Ambiguous",1
+"2765","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",4157,18,"Unambiguous",-1
+"2771","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",4436,18,"Unambiguous",-1
+"2777","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",3677,18,"Unambiguous",-1
+"2783","exp1","3","After the bear scratched the lion in the forest climbed the tree.",9501,18,"Ambiguous",1
+"2789","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",3209,18,"Ambiguous",1
+"2854","exp1","2","After the woman dressed the boy at home read a book.",8969,19,"Ambiguous",1
+"2860","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",12062,19,"Unambiguous",-1
+"2866","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",8009,19,"Unambiguous",-1
+"2872","exp3","4","After the parents hugged their child in the park sat on the bench.",8983,19,"Ambiguous",1
+"2878","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",7992,19,"Unambiguous",-1
+"2884","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",12050,19,"Ambiguous",1
+"2890","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",13712,19,"Unambiguous",-1
+"2896","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",13665,19,"Ambiguous",1
+"2902","exp2","7","After the lady dressed%2C the boy in the house watched the television.",12731,19,"Unambiguous",-1
+"2908","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",7871,19,"Ambiguous",1
+"2914","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",9352,19,"Unambiguous",-1
+"2920","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",6578,19,"Unambiguous",-1
+"2926","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",11837,19,"Unambiguous",-1
+"2932","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",9504,19,"Ambiguous",1
+"2938","exp1","6","After the mouse scratched the man with the dark hair drank some water.",6308,19,"Ambiguous",1
+"2944","exp3","8","After the lady woke up her husband at home drank some coffee.",7390,19,"Ambiguous",1
+"3009","exp1","9","After the parents kissed their son in the dining room ate some bread.",12658,20,"Ambiguous",1
+"3015","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",10294,20,"Unambiguous",-1
+"3021","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",11736,20,"Unambiguous",-1
+"3027","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",7209,20,"Ambiguous",1
+"3033","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",13269,20,"Ambiguous",1
+"3039","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",6109,20,"Ambiguous",1
+"3045","exp3","3","After the bear scratched the lion in the forest climbed the tree.",15901,20,"Ambiguous",1
+"3051","exp1","1","After the lady woke up the boy in the room ate a sandwich.",7135,20,"Ambiguous",1
+"3057","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",11528,20,"Unambiguous",-1
+"3063","exp2","2","After the woman dressed%2C the boy at home read a book.",13687,20,"Unambiguous",-1
+"3069","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",7636,20,"Unambiguous",-1
+"3075","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",5979,20,"Unambiguous",-1
+"3081","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",6900,20,"Unambiguous",-1
+"3087","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",9145,20,"Ambiguous",1
+"3093","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",10118,20,"Unambiguous",-1
+"3099","exp3","7","After the lady dressed the boy in the house watched the television.",7567,20,"Ambiguous",1
+"3164","exp2","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",3531,21,"Unambiguous",-1
+"3170","exp1","16","After the old lady dressed the boy in the bedroom looked at the clock.",3809,21,"Ambiguous",1
+"3176","exp1","8","After the lady woke up her husband at home drank some coffee.",4774,21,"Ambiguous",1
+"3182","exp2","9","After the parents kissed%2C their son in the dining room ate some bread.",3638,21,"Unambiguous",-1
+"3188","exp3","6","After the mouse scratched the man with the dark hair drank some water.",5594,21,"Ambiguous",1
+"3194","exp1","12","After the lady dressed the child in the bedroom looked at the clock.",3455,21,"Ambiguous",1
+"3200","exp2","1","After the lady woke up%2C the boy in the room ate a sandwich.",3399,21,"Unambiguous",-1
+"3206","exp4","7","After the lady dressed%2C the boy in the house watched the television.",3178,21,"Unambiguous",-1
+"3212","exp3","14","After the lady woke up her friend in the flat drank a cup of tea.",4552,21,"Ambiguous",1
+"3218","exp1","4","After the parents hugged their child in the park sat on the bench.",3426,21,"Ambiguous",1
+"3224","exp2","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",8099,21,"Unambiguous",-1
+"3230","exp4","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",3587,21,"Unambiguous",-1
+"3236","exp4","3","After the bear scratched%2C the lion in the forest climbed the tree.",6860,21,"Unambiguous",-1
+"3242","exp3","10","After the brothers hugged their mother in the kitchen ate some cookies.",2729,21,"Ambiguous",1
+"3248","exp4","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",5929,21,"Unambiguous",-1
+"3254","exp3","2","After the woman dressed the boy at home read a book.",5806,21,"Ambiguous",1
+"3319","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",5986,22,"Ambiguous",1
+"3325","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",7805,22,"Unambiguous",-1
+"3331","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",9272,22,"Ambiguous",1
+"3337","exp1","7","After the lady dressed the boy in the house watched the television.",7038,22,"Ambiguous",1
+"3343","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",5505,22,"Unambiguous",-1
+"3349","exp4","2","After the woman dressed%2C the boy at home read a book.",5099,22,"Unambiguous",-1
+"3355","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",5849,22,"Unambiguous",-1
+"3361","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",2371,22,"Unambiguous",-1
+"3367","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",35166,22,"Unambiguous",-1
+"3373","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",7822,22,"Unambiguous",-1
+"3379","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",5505,22,"Ambiguous",1
+"3385","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",3077,22,"Ambiguous",1
+"3391","exp1","3","After the bear scratched the lion in the forest climbed the tree.",21623,22,"Ambiguous",1
+"3397","exp3","1","After the lady woke up the boy in the room ate a sandwich.",43638,22,"Ambiguous",1
+"3403","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",9763,22,"Unambiguous",-1
+"3409","exp3","9","After the parents kissed their son in the dining room ate some bread.",6041,22,"Ambiguous",1
+"3472","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",12886,23,"Unambiguous",-1
+"3478","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",14264,23,"Unambiguous",-1
+"3484","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",12115,23,"Unambiguous",-1
+"3490","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",10765,23,"Unambiguous",-1
+"3496","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",8127,23,"Ambiguous",1
+"3502","exp1","2","After the woman dressed the boy at home read a book.",9626,23,"Ambiguous",1
+"3508","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",9875,23,"Unambiguous",-1
+"3514","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",8970,23,"Ambiguous",1
+"3520","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",12357,23,"Unambiguous",-1
+"3526","exp1","6","After the mouse scratched the man with the dark hair drank some water.",11189,23,"Ambiguous",1
+"3532","exp3","4","After the parents hugged their child in the park sat on the bench.",21744,23,"Ambiguous",1
+"3538","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",9867,23,"Ambiguous",1
+"3544","exp3","8","After the lady woke up her husband at home drank some coffee.",19260,23,"Ambiguous",1
+"3550","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",25821,23,"Ambiguous",1
+"3556","exp2","7","After the lady dressed%2C the boy in the house watched the television.",7156,23,"Unambiguous",-1
+"3562","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",16178,23,"Unambiguous",-1
+"3629","exp3","7","After the lady dressed the boy in the house watched the television.",8912,24,"Ambiguous",1
+"3635","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",6837,24,"Unambiguous",-1
+"3641","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",10175,24,"Unambiguous",-1
+"3647","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",7209,24,"Unambiguous",-1
+"3653","exp1","9","After the parents kissed their son in the dining room ate some bread.",6106,24,"Ambiguous",1
+"3659","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",6731,24,"Unambiguous",-1
+"3665","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",5833,24,"Unambiguous",-1
+"3671","exp3","3","After the bear scratched the lion in the forest climbed the tree.",6295,24,"Ambiguous",1
+"3677","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",5745,24,"Unambiguous",-1
+"3683","exp2","2","After the woman dressed%2C the boy at home read a book.",7521,24,"Unambiguous",-1
+"3689","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",5304,24,"Ambiguous",1
+"3695","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",5960,24,"Unambiguous",-1
+"3701","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",5454,24,"Ambiguous",1
+"3707","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",5429,24,"Ambiguous",1
+"3713","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",4411,24,"Ambiguous",1
+"3719","exp1","1","After the lady woke up the boy in the room ate a sandwich.",6635,24,"Ambiguous",1
+"3784","exp3","4","After the parents hugged their child in the park sat on the bench.",11316,25,"Ambiguous",1
+"3790","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",5637,25,"Unambiguous",-1
+"3796","exp1","6","After the mouse scratched the man with the dark hair drank some water.",6485,25,"Ambiguous",1
+"3802","exp1","2","After the woman dressed the boy at home read a book.",6418,25,"Ambiguous",1
+"3808","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",9123,25,"Unambiguous",-1
+"3814","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",7379,25,"Unambiguous",-1
+"3820","exp2","7","After the lady dressed%2C the boy in the house watched the television.",4953,25,"Unambiguous",-1
+"3826","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",3836,25,"Unambiguous",-1
+"3832","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",3335,25,"Unambiguous",-1
+"3838","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",7059,25,"Ambiguous",1
+"3844","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",2918,25,"Unambiguous",-1
+"3850","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",3564,25,"Ambiguous",1
+"3856","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",4279,25,"Ambiguous",1
+"3862","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",3750,25,"Ambiguous",1
+"3868","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",4180,25,"Unambiguous",-1
+"3874","exp3","8","After the lady woke up her husband at home drank some coffee.",8109,25,"Ambiguous",1
+"3937","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",20641,26,"Unambiguous",-1
+"3943","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",18791,26,"Unambiguous",-1
+"3949","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",19035,26,"Ambiguous",1
+"3955","exp1","2","After the woman dressed the boy at home read a book.",21253,26,"Ambiguous",1
+"3961","exp2","7","After the lady dressed%2C the boy in the house watched the television.",25931,26,"Unambiguous",-1
+"3967","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",21936,26,"Unambiguous",-1
+"3973","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",23011,26,"Unambiguous",-1
+"3979","exp3","4","After the parents hugged their child in the park sat on the bench.",8119,26,"Ambiguous",1
+"3985","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",12346,26,"Unambiguous",-1
+"3991","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",17613,26,"Unambiguous",-1
+"3997","exp1","6","After the mouse scratched the man with the dark hair drank some water.",9597,26,"Ambiguous",1
+"4003","exp3","8","After the lady woke up her husband at home drank some coffee.",12822,26,"Ambiguous",1
+"4009","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",19484,26,"Ambiguous",1
+"4015","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",12701,26,"Ambiguous",1
+"4021","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",7487,26,"Unambiguous",-1
+"4027","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",6872,26,"Ambiguous",1
+"4094","exp1","8","After the lady woke up her husband at home drank some coffee.",11480,27,"Ambiguous",1
+"4100","exp2","9","After the parents kissed%2C their son in the dining room ate some bread.",7240,27,"Unambiguous",-1
+"4106","exp3","6","After the mouse scratched the man with the dark hair drank some water.",13091,27,"Ambiguous",1
+"4112","exp4","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",7479,27,"Unambiguous",-1
+"4118","exp3","2","After the woman dressed the boy at home read a book.",4515,27,"Ambiguous",1
+"4124","exp1","4","After the parents hugged their child in the park sat on the bench.",4405,27,"Ambiguous",1
+"4130","exp4","7","After the lady dressed%2C the boy in the house watched the television.",8279,27,"Unambiguous",-1
+"4136","exp4","3","After the bear scratched%2C the lion in the forest climbed the tree.",31273,27,"Unambiguous",-1
+"4142","exp3","10","After the brothers hugged their mother in the kitchen ate some cookies.",9493,27,"Ambiguous",1
+"4148","exp1","16","After the old lady dressed the boy in the bedroom looked at the clock.",8635,27,"Ambiguous",1
+"4154","exp3","14","After the lady woke up her friend in the flat drank a cup of tea.",16515,27,"Ambiguous",1
+"4160","exp2","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",8588,27,"Unambiguous",-1
+"4166","exp1","12","After the lady dressed the child in the bedroom looked at the clock.",3435,27,"Ambiguous",1
+"4172","exp2","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",5776,27,"Unambiguous",-1
+"4178","exp4","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",18514,27,"Unambiguous",-1
+"4184","exp2","1","After the lady woke up%2C the boy in the room ate a sandwich.",7280,27,"Unambiguous",-1
+"4249","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",9431,28,"Unambiguous",-1
+"4255","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",5436,28,"Ambiguous",1
+"4261","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",3913,28,"Ambiguous",1
+"4267","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",4431,28,"Ambiguous",1
+"4273","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",28064,28,"Unambiguous",-1
+"4279","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",3503,28,"Unambiguous",-1
+"4285","exp1","3","After the bear scratched the lion in the forest climbed the tree.",15958,28,"Ambiguous",1
+"4291","exp3","1","After the lady woke up the boy in the room ate a sandwich.",5983,28,"Ambiguous",1
+"4297","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",4028,28,"Unambiguous",-1
+"4303","exp1","7","After the lady dressed the boy in the house watched the television.",4359,28,"Ambiguous",1
+"4309","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",6837,28,"Unambiguous",-1
+"4315","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",3666,28,"Unambiguous",-1
+"4321","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",4150,28,"Unambiguous",-1
+"4327","exp4","2","After the woman dressed%2C the boy at home read a book.",4068,28,"Unambiguous",-1
+"4333","exp3","9","After the parents kissed their son in the dining room ate some bread.",3615,28,"Ambiguous",1
+"4339","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",12743,28,"Ambiguous",1
+"4402","exp2","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",5548,29,"Unambiguous",-1
+"4408","exp4","9","After the parents kissed%2C their son in the dining room ate some bread.",4697,29,"Unambiguous",-1
+"4414","exp1","2","After the woman dressed the boy at home read a book.",4542,29,"Ambiguous",1
+"4420","exp2","7","After the lady dressed%2C the boy in the house watched the television.",5590,29,"Unambiguous",-1
+"4426","exp1","10","After the brothers hugged their mother in the kitchen ate some cookies.",3784,29,"Ambiguous",1
+"4432","exp4","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",3545,29,"Unambiguous",-1
+"4438","exp2","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",11391,29,"Unambiguous",-1
+"4444","exp3","4","After the parents hugged their child in the park sat on the bench.",5254,29,"Ambiguous",1
+"4450","exp1","6","After the mouse scratched the man with the dark hair drank some water.",14847,29,"Ambiguous",1
+"4456","exp3","12","After the lady dressed the child in the bedroom looked at the clock.",3603,29,"Ambiguous",1
+"4462","exp4","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",10533,29,"Unambiguous",-1
+"4468","exp4","1","After the lady woke up%2C the boy in the room ate a sandwich.",4106,29,"Unambiguous",-1
+"4474","exp1","14","After the lady woke up her friend in the flat drank a cup of tea.",9504,29,"Ambiguous",1
+"4480","exp2","3","After the bear scratched%2C the lion in the forest climbed the tree.",20016,29,"Unambiguous",-1
+"4486","exp3","8","After the lady woke up her husband at home drank some coffee.",11629,29,"Ambiguous",1
+"4492","exp3","16","After the old lady dressed the boy in the bedroom looked at the clock.",6374,29,"Ambiguous",1
+"4559","exp3","7","After the lady dressed the boy in the house watched the television.",6343,30,"Ambiguous",1
+"4565","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",8605,30,"Unambiguous",-1
+"4571","exp1","9","After the parents kissed their son in the dining room ate some bread.",9960,30,"Ambiguous",1
+"4577","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",13746,30,"Unambiguous",-1
+"4583","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",7453,30,"Ambiguous",1
+"4589","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",11162,30,"Unambiguous",-1
+"4595","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",16415,30,"Ambiguous",1
+"4601","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",12554,30,"Ambiguous",1
+"4607","exp2","2","After the woman dressed%2C the boy at home read a book.",24485,30,"Unambiguous",-1
+"4613","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",9111,30,"Unambiguous",-1
+"4619","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",9710,30,"Ambiguous",1
+"4625","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",9907,30,"Unambiguous",-1
+"4631","exp1","1","After the lady woke up the boy in the room ate a sandwich.",6761,30,"Ambiguous",1
+"4637","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",12242,30,"Unambiguous",-1
+"4643","exp3","3","After the bear scratched the lion in the forest climbed the tree.",4938,30,"Ambiguous",1
+"4649","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",7932,30,"Unambiguous",-1
+"4714","exp4","15","After the parents kissed%2C their child in the bedroom ate some biscuits.",3603,31,"Unambiguous",-1
+"4720","exp4","3","After the bear scratched%2C the lion in the forest climbed the tree.",5085,31,"Unambiguous",-1
+"4726","exp4","11","After the nurse woke up%2C the patient in the hospital knocked on the door.",3472,31,"Unambiguous",-1
+"4732","exp1","16","After the old lady dressed the boy in the bedroom looked at the clock.",7712,31,"Ambiguous",1
+"4738","exp1","8","After the lady woke up her husband at home drank some coffee.",6948,31,"Ambiguous",1
+"4744","exp2","13","After the girls hugged%2C their father in the kitchen drank some lemonade.",4814,31,"Unambiguous",-1
+"4750","exp2","9","After the parents kissed%2C their son in the dining room ate some bread.",4785,31,"Unambiguous",-1
+"4756","exp3","6","After the mouse scratched the man with the dark hair drank some water.",5481,31,"Ambiguous",1
+"4762","exp4","7","After the lady dressed%2C the boy in the house watched the television.",3152,31,"Unambiguous",-1
+"4768","exp2","5","After the parents kissed%2C the child in the kitchen ate some chocolate.",3365,31,"Unambiguous",-1
+"4774","exp2","1","After the lady woke up%2C the boy in the room ate a sandwich.",3846,31,"Unambiguous",-1
+"4780","exp3","14","After the lady woke up her friend in the flat drank a cup of tea.",4487,31,"Ambiguous",1
+"4786","exp3","10","After the brothers hugged their mother in the kitchen ate some cookies.",3872,31,"Ambiguous",1
+"4792","exp1","12","After the lady dressed the child in the bedroom looked at the clock.",6273,31,"Ambiguous",1
+"4798","exp1","4","After the parents hugged their child in the park sat on the bench.",3325,31,"Ambiguous",1
+"4804","exp3","2","After the woman dressed the boy at home read a book.",4635,31,"Ambiguous",1
+"4869","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",13223,32,"Ambiguous",1
+"4875","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",6999,32,"Unambiguous",-1
+"4881","exp1","3","After the bear scratched the lion in the forest climbed the tree.",6956,32,"Ambiguous",1
+"4887","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",8225,32,"Unambiguous",-1
+"4893","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",14838,32,"Ambiguous",1
+"4899","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",9932,32,"Unambiguous",-1
+"4905","exp3","1","After the lady woke up the boy in the room ate a sandwich.",3763,32,"Ambiguous",1
+"4911","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",10330,32,"Ambiguous",1
+"4917","exp3","9","After the parents kissed their son in the dining room ate some bread.",3167,32,"Ambiguous",1
+"4923","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",7391,32,"Unambiguous",-1
+"4929","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",17992,32,"Unambiguous",-1
+"4935","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",2799,32,"Unambiguous",-1
+"4941","exp1","7","After the lady dressed the boy in the house watched the television.",8214,32,"Ambiguous",1
+"4947","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",5126,32,"Unambiguous",-1
+"4953","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",3322,32,"Ambiguous",1
+"4959","exp4","2","After the woman dressed%2C the boy at home read a book.",5790,32,"Unambiguous",-1
+"5022","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",11083,33,"Unambiguous",-1
+"5028","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",13582,33,"Unambiguous",-1
+"5034","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",7777,33,"Ambiguous",1
+"5040","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",8898,33,"Unambiguous",-1
+"5046","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",8215,33,"Ambiguous",1
+"5052","exp3","9","After the parents kissed their son in the dining room ate some bread.",7846,33,"Ambiguous",1
+"5058","exp1","7","After the lady dressed the boy in the house watched the television.",5456,33,"Ambiguous",1
+"5064","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",8919,33,"Unambiguous",-1
+"5070","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",6184,33,"Ambiguous",1
+"5076","exp1","3","After the bear scratched the lion in the forest climbed the tree.",9570,33,"Ambiguous",1
+"5082","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",6274,33,"Unambiguous",-1
+"5088","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",10703,33,"Unambiguous",-1
+"5094","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",5396,33,"Unambiguous",-1
+"5100","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",10242,33,"Ambiguous",1
+"5106","exp3","1","After the lady woke up the boy in the room ate a sandwich.",6169,33,"Ambiguous",1
+"5112","exp4","2","After the woman dressed%2C the boy at home read a book.",5063,33,"Unambiguous",-1
+"5179","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",3038,34,"Unambiguous",-1
+"5185","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",4130,34,"Unambiguous",-1
+"5191","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",3349,34,"Ambiguous",1
+"5197","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",2691,34,"Ambiguous",1
+"5203","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",4135,34,"Unambiguous",-1
+"5209","exp1","9","After the parents kissed their son in the dining room ate some bread.",2333,34,"Ambiguous",1
+"5215","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",4807,34,"Unambiguous",-1
+"5221","exp2","2","After the woman dressed%2C the boy at home read a book.",5985,34,"Unambiguous",-1
+"5227","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",3062,34,"Unambiguous",-1
+"5233","exp1","1","After the lady woke up the boy in the room ate a sandwich.",3181,34,"Ambiguous",1
+"5239","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",2242,34,"Unambiguous",-1
+"5245","exp3","7","After the lady dressed the boy in the house watched the television.",2928,34,"Ambiguous",1
+"5251","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",5978,34,"Ambiguous",1
+"5257","exp3","3","After the bear scratched the lion in the forest climbed the tree.",4099,34,"Ambiguous",1
+"5263","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",2424,34,"Ambiguous",1
+"5269","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",3244,34,"Unambiguous",-1
+"5334","exp3","3","After the bear scratched the lion in the forest climbed the tree.",15345,35,"Ambiguous",1
+"5340","exp1","13","After the girls hugged their father in the kitchen drank some lemonade.",7455,35,"Ambiguous",1
+"5346","exp4","4","After the parents hugged%2C their child in the park sat on the bench.",7012,35,"Unambiguous",-1
+"5352","exp1","5","After the parents kissed the child in the kitchen ate some chocolate.",6125,35,"Ambiguous",1
+"5358","exp4","12","After the lady dressed%2C the child in the bedroom looked at the clock.",10476,35,"Unambiguous",-1
+"5364","exp4","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",9946,35,"Unambiguous",-1
+"5370","exp3","7","After the lady dressed the boy in the house watched the television.",9801,35,"Ambiguous",1
+"5376","exp1","9","After the parents kissed their son in the dining room ate some bread.",10152,35,"Ambiguous",1
+"5382","exp2","6","After the mouse scratched%2C the man with the dark hair drank some water.",6253,35,"Unambiguous",-1
+"5388","exp2","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",7859,35,"Unambiguous",-1
+"5394","exp2","2","After the woman dressed%2C the boy at home read a book.",5156,35,"Unambiguous",-1
+"5400","exp3","11","After the nurse woke up the patient in the hospital knocked on the door.",9211,35,"Ambiguous",1
+"5406","exp1","1","After the lady woke up the boy in the room ate a sandwich.",5582,35,"Ambiguous",1
+"5412","exp4","8","After the lady woke up%2C her husband at home drank some coffee.",5790,35,"Unambiguous",-1
+"5418","exp2","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",5986,35,"Unambiguous",-1
+"5424","exp3","15","After the parents kissed their child in the bedroom ate some biscuits.",6312,35,"Ambiguous",1
+"5487","exp2","16","After the old lady dressed%2C the boy in the bedroom looked at the clock.",6039,36,"Unambiguous",-1
+"5493","exp2","12","After the lady dressed%2C the child in the bedroom looked at the clock.",1470,36,"Unambiguous",-1
+"5499","exp4","6","After the mouse scratched%2C the man with the dark hair drank some water.",2184,36,"Unambiguous",-1
+"5505","exp1","15","After the parents kissed their child in the bedroom ate some biscuits.",6236,36,"Ambiguous",1
+"5511","exp3","9","After the parents kissed their son in the dining room ate some bread.",4896,36,"Ambiguous",1
+"5517","exp1","3","After the bear scratched the lion in the forest climbed the tree.",4620,36,"Ambiguous",1
+"5523","exp1","11","After the nurse woke up the patient in the hospital knocked on the door.",4224,36,"Ambiguous",1
+"5529","exp3","5","After the parents kissed the child in the kitchen ate some chocolate.",3738,36,"Ambiguous",1
+"5535","exp2","4","After the parents hugged%2C their child in the park sat on the bench.",3413,36,"Unambiguous",-1
+"5541","exp3","1","After the lady woke up the boy in the room ate a sandwich.",3207,36,"Ambiguous",1
+"5547","exp2","8","After the lady woke up%2C her husband at home drank some coffee.",2471,36,"Unambiguous",-1
+"5553","exp1","7","After the lady dressed the boy in the house watched the television.",3004,36,"Ambiguous",1
+"5559","exp4","14","After the lady woke up%2C her friend in the flat drank a cup of tea.",8168,36,"Unambiguous",-1
+"5565","exp4","2","After the woman dressed%2C the boy at home read a book.",268,36,"Unambiguous",-1
+"5571","exp3","13","After the girls hugged their father in the kitchen drank some lemonade.",11138,36,"Ambiguous",1
+"5577","exp4","10","After the brothers hugged%2C their mother in the kitchen ate some cookies.",573,36,"Unambiguous",-1
